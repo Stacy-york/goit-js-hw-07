@@ -1,0 +1,54 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node.js dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Temp files
+*.tmp
+*.swp
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Cache files
+.cache/
+.npm/
+yarn.lock
+package-lock.json
+
+# Testing
+coverage/
+.nyc_output/
+
+# Linting
+.eslintcache
+
+# Generated files
+*.gz
+*.map
+
+# Service workers
+workbox-config.js
+
+# Optional for TypeScript
+*.tsbuildinfo
