@@ -60,6 +60,7 @@ textarea {
 /* #endregion */
 
 
+/* #region Task 1 */
 #categories {
 display: flex;
   flex-direction: column;
@@ -106,3 +107,47 @@ font-family: "Montserrat", sans-serif;
   padding: 8px 16px;
  
 }
+/* #endregion */
+
+/* #region Task 2 */
+
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-self: center;
+  row-gap: 48px;
+  column-gap: 24px;
+
+}
+
+.gallery img {
+  max-width: 360px;
+  height: 300px;
+  object-fit: cover;
+}
+
+/* #endregion */
+
+/* #region Task 3 */
+
+
+
+/* #endregion */
+
+/* #region Task 4 */
+
+
+/* #endregion */
+
+/* #region  Task 5 */
+
+
+
+/* #endregion */
+
+
+/* #region Task 6 */
+
+
+
+/* #endregion */
